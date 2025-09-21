@@ -1,6 +1,7 @@
 ## Список задач для самостоятельного решения
 
 - **Задачи №1: https://contest.yandex.ru/contest/81316/problems/**
+- **Задачи №2: https://contest.yandex.ru/contest/81800/problems/**
 
 <br>
 

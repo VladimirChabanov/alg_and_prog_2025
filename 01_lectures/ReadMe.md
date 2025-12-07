@@ -8,6 +8,6 @@
 
 **Лекция 7. Введение в ООП** | **cpp: [[pdf]](./lecture_07/presentation_cpp.pdf)** **[[pptx]](./lecture_07/presentation_cpp.pptx)** **[[видео]](https://rutube.ru/video/private/93b1a9df9db900d7c10c3d9a0fb58f05/?p=NT5ZIcSZiM0oz5Zc2ve-dg)** | **go: [[pdf]](./lecture_07/presentation_go.pdf)** **[[pptx]](./lecture_07/presentation_go.pptx)** **[[видео]](https://rutube.ru/video/private/755a5565a4f63744485d9d022f14a3e2/?p=CuhvREbR9foeguQHLQ0sOg)**
 
-**Лекция 8. Резерв**
+**Лекция 8. Инкапсуляция. Наследование. Полиморфизм** | **cpp: [pdf]** **[[pptx]](./lecture_08/presentation_cpp.pptx)** **[видео]** | **go: [pdf]** **[pptx]** **[видео]**
 
 **Лекция 9. Модель памяти. Указатели и ссылки** | **cpp: [pdf]** **[[pptx]](./lecture_09/presentation_cpp.pptx)** **[видео]** | **go: [pdf]** **[pptx]** **[видео]**

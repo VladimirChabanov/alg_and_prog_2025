@@ -10,4 +10,4 @@
 
 **Лекция 8. Инкапсуляция. Наследование. Полиморфизм** | **cpp: [[pdf]](./lecture_08/presentation_cpp.pdf)** **[[pptx]](./lecture_08/presentation_cpp.pptx)** **[[видео]](https://rutube.ru/video/private/0d4c7f37d308bfd0b068bf5e9d8dc37e/?r=wd&p=5qTehI7eWyXa3ozML48r7g)** | **go: [pdf]** **[pptx]** **[видео]**
 
-**Лекция 9. Модель памяти. Указатели и ссылки** | **cpp: [pdf]** **[[pptx]](./lecture_09/presentation_cpp.pptx)** **[видео]** | **go: [pdf]** **[pptx]** **[видео]**
+**Лекция 9. Модель памяти. Указатели и ссылки** | **cpp: [[pdf]](./lecture_09/presentation_cpp.pdf)** **[[pptx]](./lecture_09/presentation_cpp.pptx)** **[[видео]](https://rutube.ru/video/private/b549a647bb050b09f180e4bc8c24b4a9/?r=wd&p=yzUrFKZ-XtYtSsLWBMYmjw)** | **go: [pdf]** **[pptx]** **[видео]**

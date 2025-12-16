@@ -1314,7 +1314,7 @@
       target_link_libraries(${PROJECT_NAME} PRIVATE sum)
       ```
       
-    - В каталоге `"extdepsum"` создайте корневой `"CMakeLists.txt"` содержащий:
+    - В каталоге `"cowsay_as_dep"` создайте корневой `"CMakeLists.txt"` содержащий:
 
       ```cmake
       cmake_minimum_required(VERSION 3.28.3)
